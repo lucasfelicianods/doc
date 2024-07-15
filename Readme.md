@@ -26,7 +26,6 @@ Agora, o ```Diagrama de Contexto``` ilustra como o sistema se encaixa no ambient
 - Customer Data Platform (CDP) Google Cloud
 - App Integration Google Cloud
 - Cloud run Google Cloud
-- App Integration
 
 # Detalhes de Requisitos
 
