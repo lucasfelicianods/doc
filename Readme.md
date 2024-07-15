@@ -15,7 +15,7 @@ O modelo C4 (Context, Containers, Components, and Code) é uma abordagem de mode
 ![High Level Design](img/dgContainerEneva.drawio.png)
 
 
-Agora, o ```DDiagrama de Contexto```D ilustra como o sistema se encaixa no ambiente em que opera e como interage com os usuários e outros sistemas. Ele apresenta o sistema como um todo, ajudando a entender seu propósito e escopo, ao mesmo tempo que destaca as interações entre o sistema e os atores externos, como usuários e sistemas de terceiros. A seguir, o Diagrama de Contexto:
+Agora, o ```Diagrama de Contexto``` ilustra como o sistema se encaixa no ambiente em que opera e como interage com os usuários e outros sistemas. Ele apresenta o sistema como um todo, ajudando a entender seu propósito e escopo, ao mesmo tempo que destaca as interações entre o sistema e os atores externos, como usuários e sistemas de terceiros. A seguir, o Diagrama de Contexto:
 
 ![High Level Design](img/dgContextoEneva.drawio.png)
 
