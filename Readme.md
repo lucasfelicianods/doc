@@ -27,10 +27,11 @@ Agora, o ```Diagrama de Contexto``` ilustra como o sistema se encaixa no ambient
 - App Integration Google Cloud
 - Cloud run Google Cloud
 
+
 # Detalhes de Requisitos
 
 ##### **Cliente Eneva**
-1. O cliente Eneva chamará uma API disponível no Apigee. Esta API permitirá a consulta de quatro conjuntos diferentes de datasets, que são: 
+1. O cliente ```Eneva``` chamará um serviço disponibilizado pela própria ```Eneva```. Este serviço consultará a API exposta no ```Apigee```, que, por sua vez, realizará a consulta de quatro conjuntos diferentes de ```datasets```. Esses conjuntos são: 
 
 - CONSUMO_MENSAL_PERFIL_AGENTE	fev/24	https://dadosabertos.ccee.org.br/api/3/action/datastore_search?resource_id=3211839f-54b1-460e-92f3-e4c4b307f376
 - CONTABILIZACAO_MONTANTE_PERFIL_AGENTE	fev/24	https://dadosabertos.ccee.org.br/api/3/action/datastore_search?resource_id=d47f9660-28d6-4542-9dbc-9648e13b3c67
